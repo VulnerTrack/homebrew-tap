@@ -5,8 +5,7 @@ Homebrew formulae for VulnerTrack tools.
 ## Installation
 
 ```bash
-brew tap vulnertrack/tap https://github.com/VulnerTrack/homebrew-tap
-brew install kite-collector
+brew install --cask VulnerTrack/tap/kite-collector
 ```
 
 ## Available Formulae
