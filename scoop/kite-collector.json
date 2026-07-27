@@ -1,15 +1,15 @@
 {
-    "version": "0.38.0",
+    "version": "0.40.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VulnerTrack/kite-collector/releases/download/v0.38.0/kite-collector_windows_amd64.tar.gz",
+            "url": "https://github.com/VulnerTrack/kite-collector/releases/download/v0.40.0/kite-collector_windows_amd64.tar.gz",
             "bin": [
                 "kite-collector.exe"
             ],
-            "hash": "092443c44c3420b0e9f5984dba46e079ac1a33f3b8a45e77e29eb3582669283a"
+            "hash": "f6c97b3450b0dfa0cfccc9fcb9c69df7985a467d9885f0396c77dc99150a44f3"
         }
     },
     "homepage": "https://github.com/VulnerTrack/kite-collector",
     "license": "MIT",
-    "description": "Cybersecurity asset discovery, configuration audit, and posture analysis agent"
+    "description": "Cybersecurity machine discovery, configuration audit, and posture analysis agent"
 }
