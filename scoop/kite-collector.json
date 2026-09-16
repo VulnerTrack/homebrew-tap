@@ -1,12 +1,12 @@
 {
-    "version": "0.60.5",
+    "version": "0.61.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VulnerTrack/kite-collector/releases/download/v0.60.5/kite-collector_windows_amd64.tar.gz",
+            "url": "https://github.com/VulnerTrack/kite-collector/releases/download/v0.61.0/kite-collector_windows_amd64.tar.gz",
             "bin": [
                 "kite-collector.exe"
             ],
-            "hash": "3c4fbbeb71cab50457eddeac4b27cffc4082b88311854528675388ce4f17778a"
+            "hash": "7521b22cfedbe72e4934a7506869ab735aabeff6d5806b69f88ec75aaf664f9c"
         }
     },
     "homepage": "https://github.com/VulnerTrack/kite-collector",
